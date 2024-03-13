@@ -9,7 +9,7 @@
     > | A pseudo-class is a class that isn't directly applied in the HTML but apply to the circumstances in which the element exists, such as when an action like hovering or clicking occurs.  It's a CSS instruction that makes the element perform or look a certain way when given the proper input. It is not an element in itself. |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | Specificity declares the weight of the CSS instruction compared to others, so if it comes into direct competition with another CSS instruction it will choose the one with the most specificity. |
+    > | Specificity declares the weight of the CSS instruction compared to others, so if it comes into direct competition with another CSS instruction it will choose the one with the most specificity. In order of importance they are: important! or id, element, and class. Applying more than one at a time combines their values for even more specificity.|
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
     > | The added specificity could override the specificity you intend.  Also from a logical standpoint declaring too many things important dilutes the meaning of the word - not everything is the same importance. |

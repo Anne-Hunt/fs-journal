@@ -12,3 +12,5 @@ I am learning a lot and enjoy the CSS HTML stuff. I struggled with the kittens p
 I'm mostly struggling with assignments that are more written than visual. The visual based lab today was extraordinarily fun and I really enjoyed it.  I had a hard time understanding exactly what was asked of me in the written kittens assignment and had to go back and look at other assignments to understand it.
 
 My victory is that I'm hear and I'm learning. After my PhD program went under I thought I would never learn in a structured environment again.
+
+Last night after looking more into Bootstrap I was worried that I was going to be in way over my head so early in the program that it wouldn't work with me. After lecture I understand that it's going to be hard but that it's actually more in line with how I think about things and I'm excited to use it.
