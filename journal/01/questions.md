@@ -6,7 +6,7 @@
     > | mkdir is the command to make a new directory in the specified folder.|
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | A pseudo-class is a class that isn't directly applied in the HTML but apply to the circumstances in which the element exists. |
+    > | A pseudo-class is a class that isn't directly applied in the HTML but apply to the circumstances in which the element exists, such as when an action like hovering or clicking occurs.  It's a CSS instruction that makes the element perform or look a certain way when given the proper input. It is not an element in itself. |
 
 04. What is ***specificity*** and how might you use it to your benefit?
     > | Specificity declares the weight of the CSS instruction compared to others, so if it comes into direct competition with another CSS instruction it will choose the one with the most specificity. |
