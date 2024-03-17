@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | SOLID is an acrostic for "Single responsibility, Open/Closed classes, Liskov substitution, Interface segregation, and Dependency inversion." S means that a class should only be responsbile for one thing. Too much responsibility means that if it stops working, multiple things stop. It also means that it isn't focused on doing one thing well. O means that classes, open and closed, should be extended but not modified.  They can be used beyond what was intended but not changed to do so. They should be open to being extended, but not require modification to do so (the closed part). L means that when possible, the parent class of a subclass should be able to be swapped in without breaking the function. So if a function calls for a Toyota Corolla, you should be able to substitute general cars without breaking the function. If it calls for a square, you should be able to use a parallelogram or rectangle. I means that no code should require methods it doesn't need. Having functions specific to their use rather than general functions that require more methods beyond the scope of the current use is problematic. D means that we should have a level of abstraction between different functions, rather than something that changes. Focus on the abstraction, not the detail. |
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +17,11 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > | for (let i = 0; i < fruit.length; i++) {
+  if (fruit[i] === 'pineapple') {
+    let deletePineapple = fruit.splice(i, 1);
+  }
+} |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -38,11 +42,11 @@
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > | Conditional are functions that depend on the conditions of the declaration or function, so "if" or "if else if" statements. They work similarly to sorting or making choices about when to perform a function or return a result, based on what data is put in. Ternary operators are another example. They compare the input to the data requested and if it meets the result, they perform an action and return a result. |
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > | Parameters are what goes into a function when it is declared. Arguments are what is used in a function after it is declared. |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
@@ -50,8 +54,9 @@
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | Reference values refer to structures or objects within Javascript, like objects, arrays, and functions. Primitive values refer to data that is not unique to Javascript in form, like numbers, boolean values, and undefined/null results. |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | for(i= -100; i <= 100; i++) {
+    console.log(i)} |
