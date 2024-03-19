@@ -57,7 +57,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | Using breakpoints allows you to examine chunks of code and not huge pieces. Testing in small pieces functions similarly helping you isolate the problem. |
+    > | Using breakpoints allows you to examine chunks of code and not huge pieces. Testing in small pieces functions similarly helping you isolate the problem. Also the debugger allows you to see where your code fails because it pauses the script at the error and allows you to troubleshoot it.|
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
