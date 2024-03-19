@@ -38,7 +38,14 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > | function friendship(you, them) {
+    let friendly = you.friends
+    friendly.push(them)
+    console.log(you)
+    let friendlier = them.friends
+    friendlier.push(you)
+    console.log(them)
+} |
 
 06. Give an example of a JavaScript `Conditional`:
 
@@ -50,7 +57,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | Using breakpoints allows you to examine chunks of code and not huge pieces. Testing in small pieces functions similarly helping you isolate the problem. |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 

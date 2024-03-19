@@ -6,3 +6,7 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+Holy cows and assorted livestock. I've learned so much. I've had a javascript breakthrough by reading about the solid principles and now I understand what went wrong with my Moody Kittens project.  Those principles should be referenced earlier or at least linked to. It helps make sense of the other projects.
+
+This changes everything.
