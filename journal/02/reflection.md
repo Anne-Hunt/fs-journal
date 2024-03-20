@@ -12,3 +12,5 @@ Holy cows and assorted saintly livestock. I've learned so much. I've had a javas
 This changes everything.
 
 And so does the lecture the next morning where Mick explained why alias variables can be either references or primitives. That's what I broke in my Moody Kittens moodiness variables and functions. That's why they worked and then they didn't.
+
+I'm going to redo the Moody Kittens just for practice I think.
