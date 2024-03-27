@@ -6,3 +6,7 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+I hate English plurals and the letter s.
+
+That's been all my mistakes this week so far. I think the reason I like this week so much is that I had to deal with similar concepts in my last job when I had to oversee our database migration and oversee our new inventory control procedures. It was a similar process of delegation by department and controlling their access to both see and change the data.
