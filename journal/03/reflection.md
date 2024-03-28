@@ -10,3 +10,5 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 I hate English plurals and the letter s.
 
 That's been all my mistakes this week so far. I think the reason I like this week so much is that I had to deal with similar concepts in my last job when I had to oversee our database migration and oversee our new inventory control procedures. It was a similar process of delegation by department and controlling their access to both see and change the data.
+
+I actually don't feel like this week added much, but that's mostly because I understand the MVC concept and see that we're breaking the same types of code we've been writing up by duty and utilizing them in different pages/files/whatever. The abstraction has been helpful, I suppose, but I also look at those things and try to understand how they work generally because I am a nerd. 
